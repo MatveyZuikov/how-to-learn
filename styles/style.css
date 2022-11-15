@@ -95,14 +95,6 @@
   z-index: 0;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .two-columns {
   width: 80%;
   display: flex;
@@ -138,7 +130,7 @@
 }
 
 .two-columns__paragraph_middle {
-  margin-top: 30px ;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -316,7 +308,7 @@
   color: white;
 }
 
-.table__cell_theme_dark {
+.table__cell_margin {
   width: 200px;
   margin: 80px 0 0;
 }

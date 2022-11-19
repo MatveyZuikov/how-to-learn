@@ -193,18 +193,16 @@
   line-height: 1.15;
   width: 648px;
   text-align: center;
-  z-index: 1;
   margin: 100px auto 0;
-  z-index: 2;
+  z-index: 1;
 }
 
 .feynman__subtitle {
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
-  z-index: 1;
   margin: 70px auto 0;
-  z-index: 2;
+  z-index: 1;
 }
 
 .feynman__link {
@@ -217,7 +215,6 @@
   position: absolute;
   right: 48px;
   top: 50%;
-  z-index: 2;
 }
 
 .feynman__img {
